@@ -8,7 +8,7 @@ This repository contains custom interactive laboratories for the **Girus Platfor
 - **Description:** Essentials Linux concepts with fundamentals commands.
 
 **Demonstração Prática:**
-![Lab 1](./assets/lab1_basic_commands.png)
+![Lab 1](./assets/lab_basic_commands.png)
 
 ### 2. Linux Users and Groups Management
 - **Description:** Identity management fundamentals on Linux.
