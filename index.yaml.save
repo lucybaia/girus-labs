@@ -1,0 +1,6 @@
+name: girus-labs
+description: DevOps & Linux Labs
+
+labs:
+  - name: linux-basic-commands
+    path: labs/linux-basic-commands
