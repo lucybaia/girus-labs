@@ -19,8 +19,8 @@ This repository contains custom interactive laboratories for the **Girus Platfor
 ### Lab 4: Bash Shell Scripting
 - **Description:** Automating tasks using Bash Shell Scripting within a Linux environment.
 ![First Steps](assets/bash-first.png)
-[cite_start]*Initial script creation and execution*
+*Initial script creation and execution*
 ![Variables and Logic](assets/bash-second.png)
-[cite_start]*Using variables, arguments, and loops*
+*Using variables, arguments, and loops*
 ![Functions](assets/bash-third.png)
-[cite_start]*Advanced file manipulation using functions*
+*Advanced file manipulation using functions*
