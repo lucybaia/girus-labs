@@ -14,4 +14,13 @@ This repository contains custom interactive laboratories for the **Girus Platfor
 
 ### 3. File Permissions and Security (ACLs)
 - **Description:** Advanced file system security using traditional octal permissions and Access Control Lists (ACLs) for granular management.
-![Demonstração Lab 3](./assets/lab-permissions.png)
+![Lab 3](./assets/lab-permissions.png)
+
+### Lab 4: Bash Shell Scripting
+- **Description:** Automating tasks using Bash Shell Scripting within a Linux environment.
+![First Steps](assets/bash-first.png)
+[cite_start]*Initial script creation and execution*
+![Variables and Logic](assets/bash-second.png)
+[cite_start]*Using variables, arguments, and loops*
+![Functions](assets/bash-third.png)
+[cite_start]*Advanced file manipulation using functions*
