@@ -30,3 +30,8 @@ This repository contains custom interactive laboratories for the **Girus Platfor
 
 ![Functions](assets/bash-third.png)
 *Advanced file manipulation using functions*
+
+### 5. Docker Fundamentals with School Monitoring App
+- **Descrpition:** Containerizing a Python-based heartbeat service designed for public school monitoring systems.
+
+![Lab 5](assets/docker-fund.png)
